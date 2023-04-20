@@ -2523,7 +2523,6 @@ octubre,atraco,mañana,Calle/Avenida,si,si,si,si,no,si,no,no,no,no,no,no,no_denu
 diciembre,atraco,noche,Calle/Avenida,si,no,no,no,si,no,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2018
 noviembre,cosquilleo,noche,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,consideró innecesario,no,2018
 enero,cosquilleo,mañana,Transporte público,si,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2018
-noviembre,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2018
 julio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2018
 noviembre,cosquilleo,madrugada,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2018
 noviembre,descuido,mañana,Trabajo/Estudio,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2018
@@ -6906,17 +6905,14 @@ mayo,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,
 noviembre,atraco,madrugada,Calle/Avenida,si,si,no,no,no,no,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 octubre,otro,noche,Vehículo,si,si,si,si,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 febrero,atraco,tarde,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-marzo,cosquilleo,mañana,Trabajo/Estudio,si,si,no,no,no,no,no,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 noviembre,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,si,2019
 noviembre,cosquilleo,tarde,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 noviembre,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 marzo,raponazo,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 enero,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
-agosto,raponazo,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 octubre,engaño,mañana,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,si,2019
 octubre,raponazo,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 diciembre,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
-enero,atraco,tarde,Calle/Avenida,no,no,si,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 junio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 diciembre,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 junio,raponazo,madrugada,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -6944,7 +6940,6 @@ marzo,atraco,tarde,Residencia propia,no,si,no,si,no,no,no,no,no,no,no,no,no_denu
 mayo,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 julio,atraco,mañana,Trabajo/Estudio,si,si,no,no,no,no,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 diciembre,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-octubre,raponazo,mañana,Calle/Avenida,no,si,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 marzo,descuido,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 agosto,cosquilleo,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 mayo,raponazo,noche,Calle/Avenida,no,no,si,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
@@ -7043,7 +7038,6 @@ octubre,raponazo,noche,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denu
 mayo,raponazo,tarde,Mercado/Comercio,no,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,si,2019
 junio,raponazo,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 febrero,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
-junio,clonación_targeta,noche,Otro lugar,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,si,2019
 diciembre,atraco,tarde,Calle/Avenida,no,no,si,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 noviembre,atraco,noche,Calle/Avenida,no,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 julio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -7117,7 +7111,6 @@ julio,raponazo,noche,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,no_denunc
 septiembre,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,si,2019
 octubre,engaño,mañana,Residencia propia,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 abril,engaño,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
-febrero,cosquilleo,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 mayo,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
 noviembre,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 mayo,cosquilleo,,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -7428,7 +7421,6 @@ diciembre,atraco,tarde,Residencia ajena,si,no,no,no,no,si,no,no,no,no,no,no,no_d
 septiembre,atraco,mañana,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 febrero,cosquilleo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
 febrero,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
-febrero,cosquilleo,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 agosto,atraco,noche,Trabajo/Estudio,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 junio,atraco,madrugada,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 marzo,descuido,mañana,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -7459,7 +7451,6 @@ agosto,atraco,noche,Calle/Avenida,si,no,si,no,no,no,si,no,no,no,no,no,no_denunci
 junio,raponazo,mañana,Trabajo/Estudio,si,si,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
 enero,raponazo,noche,Calle/Avenida,no,si,si,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 diciembre,clonación_targeta,mañana,Residencia propia,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,si,2019
-febrero,atraco,tarde,Calle/Avenida,si,si,si,no,no,no,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,si,2019
 noviembre,descuido,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,si,2019
 agosto,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 junio,atraco,noche,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
@@ -7496,7 +7487,6 @@ abril,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia
 septiembre,raponazo,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 junio,descuido,tarde,Trabajo/Estudio,si,no,no,si,no,no,no,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 febrero,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-agosto,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 octubre,cosquilleo,tarde,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 julio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 diciembre,atraco,madrugada,Calle/Avenida,si,no,si,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -7514,7 +7504,6 @@ julio,atraco,tarde,Calle/Avenida,no,si,si,no,no,no,si,no,no,no,no,no,no_denuncia
 febrero,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 abril,atraco,tarde,Calle/Avenida,si,si,si,no,no,no,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 marzo,raponazo,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-diciembre,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 octubre,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 agosto,atraco,tarde,Calle/Avenida,no,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 julio,descuido,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
@@ -7524,7 +7513,6 @@ agosto,descuido,noche,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no
 junio,raponazo,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 marzo,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 febrero,atraco,noche,Calle/Avenida,no,no,si,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
-octubre,cosquilleo,noche,Residencia propia,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 abril,cosquilleo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 octubre,descuido,tarde,Residencia propia,no,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,consideró innecesario,no,2019
 septiembre,descuido,tarde,Residencia propia,no,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,consideró innecesario,no,2019
@@ -7601,14 +7589,12 @@ noviembre,descuido,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,no,no_de
 enero,raponazo,noche,Residencia propia,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,si,2019
 octubre,raponazo,mañana,Calle/Avenida,no,no,si,no,no,no,no,no,si,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 febrero,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
-febrero,descuido,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 septiembre,raponazo,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 abril,cosquilleo,tarde,Mercado/Comercio,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 febrero,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
 marzo,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 noviembre,engaño,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 julio,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
-agosto,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 diciembre,descuido,mañana,Residencia propia,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 junio,atraco,tarde,Calle/Avenida,si,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 abril,raponazo,mañana,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
@@ -7698,9 +7684,7 @@ diciembre,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_de
 noviembre,atraco,noche,Calle/Avenida,si,no,si,no,no,si,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 febrero,atraco,mañana,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 junio,atraco,mañana,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-febrero,atraco,madrugada,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 junio,atraco,mañana,Calle/Avenida,no,no,si,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
-diciembre,descuido,,Trabajo/Estudio,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 junio,raponazo,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 mayo,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 diciembre,atraco,mañana,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
@@ -7747,7 +7731,6 @@ mayo,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,
 agosto,atraco,mañana,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 diciembre,atraco,,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 marzo,atraco,,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
-diciembre,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 enero,atraco,mañana,Calle/Avenida,no,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 junio,atraco,,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 junio,descuido,noche,Trabajo/Estudio,no,no,no,no,si,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
@@ -7793,7 +7776,6 @@ febrero,atraco,noche,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denunc
 febrero,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
 diciembre,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 noviembre,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
-febrero,cosquilleo,madrugada,Entretenimiento,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 febrero,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 agosto,cosquilleo,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
 noviembre,atraco,noche,Calle/Avenida,no,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -7826,7 +7808,6 @@ julio,atraco,noche,Residencia propia,si,no,no,no,no,si,no,no,no,no,si,no,no_denu
 septiembre,descuido,madrugada,Trabajo/Estudio,no,no,no,si,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 febrero,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,si,2019
 enero,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,si,2019
-abril,atraco,mañana,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 enero,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
 septiembre,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
 octubre,engaño,noche,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
@@ -7895,7 +7876,6 @@ septiembre,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_den
 enero,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 abril,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 enero,engaño,tarde,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-septiembre,atraco,noche,Entretenimiento,si,si,si,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 octubre,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,si,2019
 junio,descuido,mañana,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 agosto,engaño,tarde,Calle/Avenida,no,si,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
@@ -7919,7 +7899,6 @@ junio,atraco,noche,Calle/Avenida,no,no,si,no,no,no,si,no,no,no,no,no,no_denuncia
 noviembre,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 abril,atraco,tarde,Calle/Avenida,si,si,no,no,si,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 diciembre,cosquilleo,noche,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-mayo,otro,tarde,Residencia propia,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 febrero,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 junio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 abril,atraco,noche,Calle/Avenida,no,si,no,no,no,si,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -8233,13 +8212,11 @@ junio,descuido,noche,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,no_denu
 septiembre,atraco,mañana,Calle/Avenida,si,si,si,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
 mayo,atraco,mañana,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 noviembre,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
-mayo,descuido,tarde,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 diciembre,atraco,madrugada,Transporte público,si,si,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 diciembre,engaño,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,si,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 abril,cosquilleo,noche,Mercado/Comercio,si,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 agosto,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 agosto,atraco,noche,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-junio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,si,2019
 agosto,raponazo,madrugada,Calle/Avenida,si,si,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 octubre,atraco,tarde,Trabajo/Estudio,no,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 junio,atraco,noche,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
@@ -8315,7 +8292,6 @@ abril,atraco,mañana,Otro lugar,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,
 septiembre,atraco,mañana,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 septiembre,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 enero,cosquilleo,mañana,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
-octubre,cosquilleo,noche,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 septiembre,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 marzo,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 diciembre,atraco,noche,Parque/Deporte,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
@@ -8384,7 +8360,6 @@ junio,atraco,noche,Trabajo/Estudio,no,si,no,no,no,si,no,no,no,no,no,no,no_denunc
 agosto,atraco,noche,Carretera/Trocha,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 febrero,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 febrero,raponazo,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-junio,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 octubre,atraco,mañana,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 febrero,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 septiembre,atraco,tarde,Transporte público,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
@@ -8465,7 +8440,6 @@ febrero,cosquilleo,mañana,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,n
 octubre,raponazo,noche,Calle/Avenida,si,no,no,si,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 febrero,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 agosto,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
-septiembre,raponazo,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,si,2019
 septiembre,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 mayo,raponazo,madrugada,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,si,2019
 julio,atraco,tarde,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -8793,14 +8767,12 @@ abril,atraco,mañana,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denunc
 mayo,raponazo,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 agosto,atraco,noche,Calle/Avenida,no,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 agosto,atraco,tarde,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,miedo a represalias,no,2019
-mayo,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 enero,atraco,madrugada,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 noviembre,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,si,2019
 noviembre,cosquilleo,tarde,Mercado/Comercio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 octubre,atraco,madrugada,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 junio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 noviembre,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,miedo a represalias,no,2019
-noviembre,atraco,noche,Calle/Avenida,si,si,si,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 octubre,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 abril,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 abril,cosquilleo,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -8957,7 +8929,6 @@ febrero,raponazo,noche,Calle/Avenida,no,si,no,si,no,no,si,no,no,no,no,no,no_denu
 marzo,descuido,noche,Vehículo,si,si,si,no,no,no,no,si,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 agosto,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 agosto,atraco,tarde,Transporte público,no,no,no,si,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-diciembre,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 junio,raponazo,tarde,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 noviembre,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 diciembre,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
@@ -8998,7 +8969,6 @@ febrero,cosquilleo,mañana,Mercado/Comercio,si,no,no,no,no,no,no,no,no,no,no,no,
 marzo,cosquilleo,mañana,Mercado/Comercio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 febrero,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 marzo,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-noviembre,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,si,2019
 mayo,raponazo,tarde,Calle/Avenida,si,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 enero,cosquilleo,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 septiembre,atraco,tarde,Calle/Avenida,no,no,no,si,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
@@ -9399,7 +9369,6 @@ octubre,atraco,tarde,Vehículo,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,n
 diciembre,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 diciembre,cosquilleo,noche,Entretenimiento,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 julio,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
-febrero,raponazo,noche,Parque/Deporte,si,si,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,si,2019
 agosto,cosquilleo,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 octubre,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
 octubre,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
@@ -9520,7 +9489,6 @@ marzo,cosquilleo,noche,Parque/Deporte,no,no,si,no,no,no,no,no,no,no,no,no,no_den
 marzo,raponazo,mañana,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 agosto,descuido,mañana,Residencia propia,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 febrero,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
-diciembre,descuido,tarde,Entretenimiento,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 agosto,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 septiembre,atraco,noche,Parque/Deporte,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 febrero,atraco,noche,Trabajo/Estudio,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -9531,7 +9499,6 @@ junio,cosquilleo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,no_de
 diciembre,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 abril,atraco,mañana,Parque/Deporte,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 mayo,cosquilleo,mañana,Mercado/Comercio,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-septiembre,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 agosto,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 noviembre,atraco,noche,Trabajo/Estudio,si,no,no,no,no,no,si,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 septiembre,atraco,noche,Residencia propia,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -9594,8 +9561,6 @@ junio,cosquilleo,mañana,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_de
 agosto,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,otro problema,no,2019
 marzo,descuido,mañana,Residencia propia,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,consideró innecesario,si,2019
 diciembre,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
-diciembre,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
-octubre,descuido,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,si,2019
 junio,raponazo,tarde,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 agosto,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 octubre,cosquilleo,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -9912,7 +9877,6 @@ junio,atraco,tarde,Calle/Avenida,no,no,si,no,no,si,no,no,no,no,no,no,no_denuncia
 julio,atraco,tarde,Transporte público,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 mayo,descuido,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 junio,descuido,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-julio,atraco,noche,Transporte público,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 junio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 mayo,cosquilleo,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 noviembre,atraco,madrugada,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -10054,7 +10018,6 @@ enero,atraco,noche,Transporte público,si,no,no,no,no,si,no,no,no,no,no,no,no_de
 mayo,atraco,madrugada,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 diciembre,descuido,madrugada,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 junio,atraco,mañana,Transporte público,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
-octubre,raponazo,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 septiembre,cosquilleo,tarde,Transporte público,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 mayo,cosquilleo,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 noviembre,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
@@ -10115,7 +10078,6 @@ noviembre,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denu
 junio,atraco,mañana,Calle/Avenida,si,si,no,no,no,si,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 noviembre,raponazo,mañana,Calle/Avenida,si,si,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 octubre,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-octubre,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 octubre,raponazo,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 diciembre,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 diciembre,raponazo,mañana,Calle/Avenida,si,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
@@ -10133,7 +10095,6 @@ julio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denunc
 marzo,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 noviembre,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2019
 marzo,atraco,noche,Residencia propia,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-septiembre,cosquilleo,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 julio,descuido,tarde,Residencia propia,si,si,si,si,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 diciembre,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 noviembre,cosquilleo,madrugada,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -10259,7 +10220,6 @@ junio,raponazo,noche,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,no_denunc
 mayo,cosquilleo,tarde,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
 septiembre,cosquilleo,mañana,Mercado/Comercio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2019
 julio,raponazo,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2019
-noviembre,raponazo,noche,Parque/Deporte,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 febrero,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 noviembre,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 junio,atraco,noche,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -10299,7 +10259,6 @@ abril,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,si,no,no,no,no_denu
 febrero,descuido,tarde,Residencia propia,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2019
 noviembre,descuido,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 mayo,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
-julio,atraco,tarde,Otro lugar,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2019
 marzo,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2019
 junio,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
 diciembre,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,si,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2019
@@ -10426,7 +10385,6 @@ mayo,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denun
 septiembre,atraco,noche,Parque/Deporte,no,si,si,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,si,2020
 enero,descuido,madrugada,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 septiembre,atraco,noche,Calle/Avenida,no,si,no,no,no,si,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
-octubre,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 noviembre,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 mayo,raponazo,noche,Calle/Avenida,si,si,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 mayo,descuido,mañana,Residencia propia,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2020
@@ -10569,7 +10527,6 @@ octubre,descuido,madrugada,Residencia propia,no,no,si,no,no,no,no,no,no,no,no,no
 febrero,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 marzo,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 octubre,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-octubre,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,no,si,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 febrero,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,si,2020
 junio,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 enero,atraco,madrugada,Calle/Avenida,no,si,si,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
@@ -10622,7 +10579,6 @@ diciembre,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denu
 septiembre,atraco,mañana,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 noviembre,atraco,mañana,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2020
 julio,atraco,tarde,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-noviembre,atraco,tarde,Mercado/Comercio,si,si,si,no,no,no,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 noviembre,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,miedo a represalias,no,2020
 agosto,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 abril,raponazo,noche,Calle/Avenida,si,si,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,si,2020
@@ -10651,7 +10607,6 @@ enero,descuido,,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,
 noviembre,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,miedo a represalias,no,2020
 mayo,cosquilleo,noche,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 febrero,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-enero,cosquilleo,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,si,2020
 septiembre,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 agosto,atraco,madrugada,Calle/Avenida,no,no,si,no,no,no,no,no,si,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,miedo a represalias,no,2020
 diciembre,cosquilleo,tarde,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
@@ -10701,7 +10656,6 @@ octubre,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denunc
 febrero,cosquilleo,mañana,Entretenimiento,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 agosto,raponazo,mañana,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2020
 enero,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-noviembre,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 diciembre,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2020
 marzo,atraco,noche,Calle/Avenida,no,no,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2020
 abril,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2020
@@ -10812,7 +10766,6 @@ agosto,raponazo,noche,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,no,no,no_denun
 enero,descuido,madrugada,Residencia propia,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2020
 noviembre,descuido,tarde,Residencia ajena,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2020
 diciembre,cosquilleo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-noviembre,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 mayo,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2020
 julio,atraco,tarde,Transporte público,no,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2020
 mayo,descuido,tarde,Residencia propia,si,no,no,no,no,no,no,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,consideró innecesario,no,2020
@@ -11169,7 +11122,6 @@ agosto,cosquilleo,madrugada,Transporte público,si,no,no,no,no,no,no,no,no,no,no
 agosto,cosquilleo,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 octubre,cosquilleo,tarde,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 agosto,atraco,mañana,Calle/Avenida,no,si,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
-noviembre,descuido,,Vehículo,no,no,si,si,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 abril,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 noviembre,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 diciembre,descuido,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
@@ -11198,7 +11150,6 @@ abril,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia
 octubre,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 junio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2020
 febrero,descuido,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2020
-junio,raponazo,tarde,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 diciembre,descuido,noche,Residencia propia,si,si,no,si,no,no,no,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 mayo,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 septiembre,atraco,noche,Calle/Avenida,si,si,si,no,no,si,no,no,si,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2020
@@ -11207,7 +11158,6 @@ julio,atraco,tarde,Transporte público,si,si,no,no,no,si,no,no,no,no,no,no,no_de
 septiembre,atraco,tarde,Trabajo/Estudio,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2020
 agosto,atraco,tarde,Trabajo/Estudio,si,no,si,no,no,si,no,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2020
 abril,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
-febrero,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 febrero,descuido,mañana,Otro lugar,si,si,no,no,no,no,no,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 junio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 agosto,cosquilleo,tarde,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
@@ -11293,7 +11243,6 @@ febrero,atraco,mañana,Transporte público,si,no,no,no,no,si,no,no,no,no,no,no,n
 marzo,atraco,mañana,Vehículo,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2020
 agosto,atraco,tarde,Calle/Avenida,si,no,si,si,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 septiembre,cosquilleo,tarde,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-mayo,descuido,mañana,Otro lugar,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 noviembre,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 junio,atraco,tarde,Calle/Avenida,no,si,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 julio,atraco,mañana,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
@@ -11380,7 +11329,6 @@ marzo,descuido,tarde,Residencia propia,si,no,no,no,no,no,no,no,no,no,no,no,no_de
 febrero,atraco,madrugada,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 septiembre,atraco,tarde,Transporte público,si,no,si,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,si,2020
 septiembre,atraco,tarde,Transporte público,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,si,2020
-diciembre,engaño,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 diciembre,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 noviembre,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 octubre,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,miedo a represalias,no,2020
@@ -11389,7 +11337,6 @@ diciembre,atraco,mañana,Vehículo,si,no,no,no,no,si,no,no,no,no,si,no,no_denunc
 noviembre,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2020
 octubre,atraco,madrugada,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 agosto,atraco,noche,Residencia propia,si,no,no,no,no,si,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-junio,atraco,mañana,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 septiembre,atraco,madrugada,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 septiembre,atraco,noche,Residencia propia,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 septiembre,atraco,noche,Calle/Avenida,no,no,si,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
@@ -11456,7 +11403,6 @@ febrero,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denunc
 julio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 abril,atraco,noche,Residencia ajena,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 febrero,atraco,tarde,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-marzo,raponazo,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 enero,cosquilleo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 junio,raponazo,mañana,Calle/Avenida,no,no,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 mayo,raponazo,mañana,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
@@ -11524,7 +11470,6 @@ febrero,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denunc
 junio,atraco,noche,Residencia ajena,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,consideró innecesario,no,2020
 diciembre,atraco,noche,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2020
 abril,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2020
-diciembre,atraco,mañana,Calle/Avenida,si,si,si,no,no,si,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 noviembre,atraco,,Residencia propia,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 junio,atraco,noche,Residencia propia,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 octubre,atraco,mañana,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
@@ -11791,7 +11736,6 @@ noviembre,descuido,tarde,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,no_
 enero,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 febrero,atraco,tarde,Calle/Avenida,si,si,si,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2020
 abril,atraco,madrugada,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-febrero,raponazo,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 junio,raponazo,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2020
 junio,engaño,mañana,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2020
 febrero,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
@@ -11807,7 +11751,6 @@ septiembre,atraco,tarde,Transporte público,si,si,no,no,no,si,no,no,no,no,no,no,
 julio,atraco,mañana,Calle/Avenida,no,si,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2020
 noviembre,cosquilleo,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 octubre,atraco,tarde,Calle/Avenida,no,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2020
-diciembre,cosquilleo,noche,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 septiembre,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2020
 diciembre,atraco,mañana,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 agosto,atraco,noche,Calle/Avenida,si,si,si,si,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2020
@@ -11862,7 +11805,6 @@ septiembre,cosquilleo,noche,Transporte público,no,si,si,no,no,no,no,no,no,no,no
 febrero,descuido,tarde,Residencia propia,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2020
 marzo,cosquilleo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 noviembre,atraco,mañana,Calle/Avenida,no,no,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-agosto,descuido,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 diciembre,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2020
 febrero,atraco,tarde,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,miedo a represalias,no,2020
 octubre,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
@@ -11875,7 +11817,6 @@ febrero,atraco,noche,Calle/Avenida,si,si,si,no,no,no,si,no,no,no,no,no,no_denunc
 febrero,raponazo,noche,Transporte público,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 mayo,atraco,noche,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 junio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-julio,atraco,mañana,Vehículo,si,si,no,no,no,si,si,no,no,no,si,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 septiembre,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 julio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 noviembre,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
@@ -11898,7 +11839,6 @@ octubre,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denu
 noviembre,descuido,tarde,Vehículo,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 octubre,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2020
 agosto,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2020
-octubre,raponazo,madrugada,Calle/Avenida,si,si,no,no,no,no,si,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 julio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2020
 mayo,descuido,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2020
 noviembre,descuido,tarde,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2020
@@ -12120,10 +12060,8 @@ mayo,raponazo,mañana,Calle/Avenida,si,si,si,no,no,si,si,no,no,no,no,no,no_denun
 febrero,atraco,mañana,Calle/Avenida,no,no,si,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2020
 enero,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,consideró innecesario,no,2020
 marzo,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,falta de pruebas,no,2020
-mayo,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 noviembre,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 septiembre,descuido,noche,Residencia propia,si,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-mayo,atraco,tarde,Calle/Avenida,si,si,si,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,si,2020
 julio,raponazo,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 octubre,cosquilleo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 diciembre,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
@@ -12280,7 +12218,6 @@ agosto,cosquilleo,tarde,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,
 mayo,cosquilleo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconocimiento del proceso,no,2020
 diciembre,cosquilleo,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 abril,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-julio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 julio,raponazo,mañana,Vehículo,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 septiembre,atraco,noche,Transporte público,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 mayo,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
@@ -12507,7 +12444,6 @@ febrero,cosquilleo,noche,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no
 diciembre,atraco,madrugada,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 noviembre,engaño,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 octubre,descuido,tarde,Mercado/Comercio,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-junio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 febrero,raponazo,mañana,Calle/Avenida,si,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desaconsejado por autoridades,no,2020
 octubre,cosquilleo,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 julio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
@@ -12578,7 +12514,6 @@ abril,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denunc
 abril,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,implicación de conocidos,no,2020
 junio,atraco,noche,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 marzo,cosquilleo,mañana,Transporte público,si,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-febrero,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,no,2020
 julio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 agosto,atraco,tarde,Mercado/Comercio,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 noviembre,atraco,noche,Calle/Avenida,si,si,si,no,no,si,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
@@ -12639,8 +12574,6 @@ noviembre,engaño,tarde,Trabajo/Estudio,no,no,no,si,no,no,no,no,no,no,no,no,no_d
 noviembre,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
 octubre,raponazo,mañana,Calle/Avenida,si,no,si,no,no,no,no,no,si,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 junio,raponazo,madrugada,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
-junio,atraco,noche,Calle/Avenida,no,si,no,no,no,si,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,si,2020
-junio,atraco,mañana,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,10.0,si,2020
 octubre,descuido,noche,Trabajo/Estudio,no,si,no,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,consideró innecesario,no,2020
 mayo,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,desconfianza en la justicia,no,2020
 septiembre,cosquilleo,tarde,Transporte público,no,no,si,no,no,no,no,no,no,no,no,no,no_denuncia,no_denuncia,no_denuncia,no_denuncia,no_denuncia,trámites engorrosos,no,2020
@@ -15829,7 +15762,6 @@ marzo,descuido,noche,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,si,si,Estaci�
 junio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,si,Estación de Policía,policia,evitar ocurrencia,si,,si_denuncia,no,2020
 diciembre,atraco,madrugada,Calle/Avenida,no,no,no,si,no,no,no,no,si,no,si,si,Fiscalía,policia,recuperar bienes,si,,si_denuncia,no,2020
 septiembre,atraco,mañana,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,si,si,Estación de Policía,policia,evitar ocurrencia,si,,si_denuncia,no,2020
-junio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,si,6.0,3.0,obligacion_ciudadana,no,info imprecisa,si_denuncia,no,2020
 noviembre,atraco,noche,Calle/Avenida,no,si,si,no,no,no,si,no,si,no,si,si,C.A.I.,policia,evitar ocurrencia,no,otro problema,si_denuncia,no,2020
 febrero,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,si,si,C.A.I.,policia,evitar ocurrencia,si,,si_denuncia,no,2020
 abril,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,si,no,no,si,C.A.I.,policia,justicia,si,,si_denuncia,no,2020

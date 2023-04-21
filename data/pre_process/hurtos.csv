@@ -1417,6 +1417,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 406241,237,3,1,3,"363,887917448885",diciembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,si,no,si,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2018
 406249,237,4,1,4,"162,675455032129",noviembre,este municipio,cosquilleo,noche,Calle/Avenida,no,si,no,no,no,,,,,,no,no,,,,,,consideró innecesario,no,2018
 406250,237,2,1,2,"351,963741924843",enero,este municipio,cosquilleo,mañana,Transporte público,si,si,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2018
+406251,237,3,1,3,"365,1894344326",noviembre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2018
 406256,237,1,1,1,"304,654149435601",julio,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,falta de pruebas,no,2018
 406260,237,1,1,1,"495,094052472191",noviembre,este municipio,cosquilleo,madrugada,Trabajo/Estudio,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2018
 406262,237,4,1,4,"224,515109979494",noviembre,este municipio,descuido,mañana,Trabajo/Estudio,no,si,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2018
@@ -7812,6 +7813,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 502337,237,1,1,1,"60,6243392879475",octubre,este municipio,otro,noche,Vehículo,si,si,si,si,no,no,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2019
 502341,237,1,1,1,"64,718575103554",febrero,este municipio,atraco,tarde,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 502361,237,2,1,2,"73,5749682782042",diciembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,si,no,no,si,Estación de Policía,policia,proteccion,si,,,no,2019
+502362,237,3,1,3,"60,7871430682539",marzo,este municipio,cosquilleo,mañana,Trabajo/Estudio,si,si,no,no,no,,,,,,si,no,,,,,,,no,2019
 502365,237,2,1,2,"64,4878211548845",noviembre,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,si,2019
 502369,237,2,1,2,"77,1429942737372",noviembre,este municipio,cosquilleo,tarde,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,trámites engorrosos,no,2019
 502387,237,2,1,2,"71,7909492418808",febrero,este municipio,descuido,tarde,Vehículo,no,si,no,no,no,no,no,no,no,no,no,si,Estación de Policía,policia,recuperar bienes,si,,,no,2019
@@ -7820,9 +7822,11 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 502396,237,3,1,3,"66,7558956632246",enero,este municipio,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,,,,,,no,no,,,,,,falta de pruebas,no,2019
 502399,237,1,1,1,"76,3098043940879",enero,este municipio,engaño,mañana,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,si,Estación de Policía,policia,evitar ocurrencia,no,otro problema,,no,2019
 502399,237,2,1,2,"76,3098043940879",junio,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,si,Reporte de objetos perdidos en línea,policia,evitar ocurrencia,,,,no,2019
+502408,237,3,1,3,"66,508413309753",agosto,este municipio,raponazo,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2019
 502418,237,1,1,1,"59,3520827172958",octubre,este municipio,engaño,mañana,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,no,,,,,,implicación de conocidos,si,2019
 502421,237,2,1,2,"55,8172093208889",octubre,este municipio,raponazo,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,si,no,no,no,,,,,,falta de pruebas,no,2019
 502422,237,1,1,1,"74,3688128244474",diciembre,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
+502423,237,1,1,1,"70,5460261004796",enero,este municipio,atraco,tarde,Calle/Avenida,no,no,si,no,no,no,si,no,no,no,no,no,,,,,,,no,2019
 502434,237,3,1,3,"51,6947422347297",junio,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
 502436,237,1,1,1,"64,1592126843544",marzo,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,si,Estación de Policía,policia,requisito para tramite,si,,,no,2019
 502438,237,1,1,1,"64,718575103554",diciembre,este municipio,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
@@ -7865,6 +7869,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 502639,237,2,1,2,"39,2778408165973",mayo,este municipio,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,si,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
 502642,237,1,1,1,"39,9889283830402",julio,este municipio,atraco,mañana,Trabajo/Estudio,si,si,no,no,no,no,si,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
 502642,237,2,1,2,"39,9889283830402",diciembre,este municipio,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
+502644,237,2,1,2,"39,5162734134292",octubre,este municipio,raponazo,mañana,Calle/Avenida,no,si,si,no,no,no,no,no,no,no,no,no,,,,,,,no,2019
 502650,237,1,1,1,"76,7530824929038",abril,este municipio,atraco,mañana,Otro lugar,si,si,no,no,no,no,no,no,si,no,si,si,C.A.I.,policia,justicia,no,espera excesiva,,no,2019
 502662,237,1,1,1,"43,1102973890459",marzo,este municipio,descuido,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
 502662,237,2,1,2,"43,1102973890459",agosto,este municipio,cosquilleo,tarde,Calle/Avenida,no,si,no,no,no,,,,,,no,no,,,,,,trámites engorrosos,no,2019
@@ -8010,6 +8015,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 503673,237,1,1,1,"732,027911059902",octubre,este municipio,atraco,noche,Calle/Avenida,si,no,no,si,no,si,si,no,no,no,si,si,C.A.I.,policia,recuperar bienes,no,espera excesiva,,no,2019
 503673,237,2,1,2,"732,027911059902",octubre,este municipio,atraco,noche,Calle/Avenida,si,no,no,si,no,si,si,no,no,no,si,si,C.A.I.,policia,recuperar bienes,no,espera excesiva,,no,2019
 503687,237,1,1,1,"765,732957341879",febrero,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,trámites engorrosos,no,2019
+503690,237,2,1,2,"93,2370700384082",junio,este municipio,clonación_targeta,noche,Otro lugar,no,si,no,no,no,no,no,no,no,no,no,no,,,,,,,si,2019
 503691,237,1,1,1,"65,4512279273049",enero,este municipio,descuido,tarde,Vehículo,no,si,no,no,no,no,no,no,no,no,no,si,Estación de Policía,policia,recuperar bienes,si,,,si,2019
 503692,237,3,1,3,"96,2462398733592",diciembre,este municipio,atraco,tarde,Calle/Avenida,no,no,si,no,no,no,si,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
 503693,237,3,1,3,"186,387445099041",noviembre,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,si,no,no,no,no,no,no,,,,,,desaconsejado por autoridades,no,2019
@@ -8110,6 +8116,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 504329,237,1,1,1,"765,889994169291",septiembre,otro,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,si,no,,,,,,desconfianza en la justicia,si,2019
 504339,237,1,1,1,"582,581637290328",octubre,este municipio,engaño,mañana,Residencia propia,no,si,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 504357,237,2,1,2,"278,994221056022",abril,este municipio,engaño,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
+504360,237,1,1,1,"314,008425757185",febrero,este municipio,cosquilleo,mañana,Transporte público,si,no,no,no,no,,,,,,si,no,,,,,,,no,2019
 504360,237,2,1,2,"314,008425757185",mayo,este municipio,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,,,,,,no,no,,,,,,implicación de conocidos,no,2019
 504369,237,2,1,2,"327,337333597067",noviembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 504376,237,1,1,1,"334,210146317094",mayo,este municipio,cosquilleo,,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -8557,6 +8564,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 508511,237,1,1,1,"929,139686809145",febrero,este municipio,cosquilleo,mañana,Calle/Avenida,si,si,no,no,no,,,,,,no,no,,,,,,implicación de conocidos,no,2019
 508521,237,1,1,1,"983,213617740569",febrero,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
 508522,237,1,1,1,"959,951909098321",marzo,este municipio,atraco,noche,Trabajo/Estudio,si,si,si,no,no,si,si,no,no,no,no,si,Fiscalía,fiscalia,evitar ocurrencia,si,,,no,2019
+508524,237,1,1,1,"1078,10760223888",febrero,este municipio,cosquilleo,mañana,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,,no,2019
 508539,237,2,1,2,"989,573015728773",agosto,este municipio,atraco,noche,Trabajo/Estudio,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2019
 508547,237,3,1,3,"975,371359616684",septiembre,este municipio,atraco,noche,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,si,si,Estación de Policía,policia,obligacion_ciudadana,no,info imprecisa,,no,2019
 508561,237,1,1,1,"887,042117212494",junio,este municipio,atraco,madrugada,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -8612,6 +8620,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 508871,237,2,1,2,"94,4950165200154",septiembre,este municipio,cosquilleo,mañana,Transporte público,si,no,no,no,no,,,,,,no,si,denuncias en línea,,justicia,,,,no,2019
 508871,237,3,1,3,"94,4950165200154",marzo,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,si,denuncias en línea,,justicia,,,,no,2019
 508876,237,1,1,1,"87,2733406361242",diciembre,este municipio,clonación_targeta,mañana,Residencia propia,no,si,no,no,no,no,no,no,no,no,no,no,,,,,,falta de pruebas,si,2019
+508893,237,2,1,2,"1296,33372527897",febrero,este municipio,atraco,tarde,Calle/Avenida,si,si,si,no,no,no,si,no,si,no,no,no,,,,,,,si,2019
 508902,237,2,1,2,"115,660557678616",noviembre,este municipio,descuido,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,si,2019
 508931,237,3,1,3,"994,155204456242",agosto,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
 508952,237,3,1,3,"101,095348838445",junio,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,implicación de conocidos,no,2019
@@ -8663,6 +8672,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 509314,237,1,1,1,"167,733766490299",diciembre,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,si,si,denuncias en línea,,justicia,,,,no,2019
 509320,237,1,1,1,"338,820634641507",junio,este municipio,descuido,tarde,Trabajo/Estudio,si,no,no,si,no,no,no,no,no,no,si,no,,,,,,trámites engorrosos,no,2019
 509340,237,1,1,1,"514,364907720713",febrero,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
+509341,237,1,1,1,"246,204356675449",agosto,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,,no,2019
 509353,237,2,1,2,"1687,88784543056",octubre,otro,cosquilleo,tarde,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,falta de pruebas,no,2019
 509394,237,1,1,1,"42,5558778062104",julio,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
 509394,237,2,1,2,"42,5558778062104",diciembre,este municipio,atraco,madrugada,Calle/Avenida,si,no,si,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -8696,6 +8706,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 509624,237,4,1,4,"80,8557256911359",abril,este municipio,atraco,tarde,Calle/Avenida,si,si,si,no,no,no,si,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
 509626,237,1,1,1,"74,3926178621974",mayo,este municipio,raponazo,madrugada,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,si,Reporte de objetos perdidos en línea,policia,proteccion,,,,no,2019
 509638,237,2,1,2,"65,4788840506923",marzo,este municipio,raponazo,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
+509640,237,2,1,2,"71,4227124270911",diciembre,este municipio,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,si,no,si,no,no,no,,,,,,,no,2019
 509648,237,1,1,1,"63,0095404302173",noviembre,este municipio,atraco,tarde,Calle/Avenida,no,no,si,no,no,no,si,no,no,no,si,si,Estación de Policía,policia,obligacion_ciudadana,no,info imprecisa,,no,2019
 509662,237,1,1,1,"67,5636446592849",octubre,otro,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 509663,237,2,1,2,"65,2286539895495",noviembre,este municipio,atraco,madrugada,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,si,C.A.I.,policia,recuperar bienes,si,,,si,2019
@@ -8711,6 +8722,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 509757,237,1,1,1,"992,277112555104",junio,otro,raponazo,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2019
 509772,237,1,1,1,"64,4928647493841",marzo,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,trámites engorrosos,no,2019
 509778,237,2,1,2,"60,900264640698",febrero,este municipio,atraco,noche,Calle/Avenida,no,no,si,no,no,si,no,no,no,no,no,no,,,,,,implicación de conocidos,no,2019
+509784,237,4,1,4,"67,5740704875888",octubre,otro,cosquilleo,noche,Residencia propia,no,si,no,no,no,,,,,,no,no,,,,,,,no,2019
 509793,237,1,1,1,"63,8858762654755",abril,este municipio,cosquilleo,tarde,Calle/Avenida,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2019
 509798,237,1,1,1,"74,0562109344236",octubre,este municipio,descuido,tarde,Residencia propia,no,no,si,no,no,no,no,no,no,no,no,no,,,,,,consideró innecesario,no,2019
 509798,237,2,1,2,"74,0562109344236",septiembre,este municipio,descuido,tarde,Residencia propia,no,no,si,no,no,no,no,no,no,no,no,no,,,,,,consideró innecesario,no,2019
@@ -8820,6 +8832,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 510792,237,2,1,2,"1043,869840676",enero,este municipio,raponazo,noche,Residencia propia,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,si,2019
 510821,237,2,1,2,"325,859241064019",octubre,otro,raponazo,mañana,Calle/Avenida,no,no,si,no,no,no,no,no,si,no,si,no,,,,,,desconocimiento del proceso,no,2019
 510828,237,1,1,1,"60,7871430682539",febrero,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,falta de pruebas,no,2019
+510842,237,2,1,2,"59,3520827172958",febrero,este municipio,descuido,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2019
 510851,237,2,1,2,"63,5311728283349",julio,este municipio,raponazo,noche,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,si,si,Fiscalía,fiscalia,justicia,no,info imprecisa,,no,2019
 510856,237,1,1,1,"78,6085747288865",septiembre,este municipio,raponazo,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 510861,237,2,1,2,"59,3520827172958",abril,este municipio,cosquilleo,tarde,Mercado/Comercio,no,si,no,no,no,,,,,,no,no,,,,,,trámites engorrosos,no,2019
@@ -8830,6 +8843,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 510898,237,1,1,1,"60,868093463045",octubre,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,si,Fiscalía,fiscalia,justicia,si,,,si,2019
 510903,237,3,1,3,"60,3087310438454",octubre,este municipio,atraco,noche,Calle/Avenida,si,si,si,no,no,no,si,no,no,no,si,si,Fiscalía,fiscalia,recuperar bienes,no,espera excesiva,,si,2019
 510906,237,1,1,1,"61,0988474117145",julio,este municipio,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,,,,,,desaconsejado por autoridades,no,2019
+510909,237,3,1,3,"51,8919700198687",agosto,este municipio,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2019
 510926,237,2,1,2,"69,8742901915736",diciembre,este municipio,descuido,mañana,Residencia propia,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 510941,237,1,1,1,"637,704629639962",noviembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,si,Estación de Policía,policia,recuperar bienes,si,,,si,2019
 510948,237,2,1,2,"2201,99188438528",junio,este municipio,atraco,tarde,Calle/Avenida,si,no,si,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -8951,7 +8965,9 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 511790,237,4,1,4,"62,9800721344883",noviembre,este municipio,atraco,noche,Calle/Avenida,si,no,si,no,no,si,si,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
 511794,237,1,1,1,"54,1731570099457",febrero,este municipio,atraco,mañana,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 511827,237,3,1,3,"825,304659261835",junio,este municipio,atraco,mañana,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
+511832,237,1,1,1,"338,192206872872",febrero,este municipio,atraco,madrugada,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,,no,2019
 511857,237,1,1,1,"319,543918543931",junio,este municipio,atraco,mañana,Calle/Avenida,no,no,si,no,no,si,no,no,no,no,no,no,,,,,,falta de pruebas,no,2019
+511897,237,1,1,1,"326,861088597566",diciembre,este municipio,descuido,,Trabajo/Estudio,no,si,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2019
 511902,237,3,1,3,"282,534736840052",diciembre,este municipio,cosquilleo,mañana,Transporte público,si,no,no,no,no,,,,,,no,si,Reporte de objetos perdidos en línea,policia,obligacion_ciudadana,,,,no,2019
 511905,237,1,1,1,"253,288895375259",junio,este municipio,raponazo,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,,,,,,falta de pruebas,no,2019
 511925,237,1,1,1,"286,311391109657",mayo,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -9017,6 +9033,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 512674,237,1,1,1,"777,798793972469",enero,este municipio,atraco,mañana,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,si,Fiscalía,fiscalia,recuperar bienes,si,,,no,2019
 512683,237,1,1,1,"452,663020819668",diciembre,este municipio,atraco,,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
 512684,237,4,1,4,"523,697242763163",marzo,este municipio,atraco,,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,implicación de conocidos,no,2019
+512690,237,2,1,2,"1091,32298816031",diciembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,,no,2019
 512692,237,1,1,1,"1108,45836734017",enero,otro,atraco,mañana,Calle/Avenida,no,si,no,no,no,si,no,no,no,no,no,no,,,,,,falta de pruebas,no,2019
 512714,237,3,1,3,"2147,20294124142",junio,otro,atraco,,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
 512719,237,2,1,2,"1162,02278692856",diciembre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,si,Estación de Policía,policia,recuperar bienes,no,info imprecisa,,no,2019
@@ -9090,6 +9107,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 513015,237,3,1,3,"75,1224021188687",diciembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,falta de pruebas,no,2019
 513029,237,2,1,2,"69,643536242904",noviembre,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,falta de pruebas,no,2019
 513032,237,1,1,1,"75,3531560675382",noviembre,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,si,si,no,no,no,no,si,Reporte de objetos perdidos en línea,policia,requisito para tramite,,,,no,2019
+513045,237,3,1,3,"53,5577843194963",febrero,este municipio,cosquilleo,madrugada,Entretenimiento,si,no,no,no,no,,,,,,no,no,,,,,,falta de pruebas,no,2019
 513049,237,2,1,2,"84,7726398397621",febrero,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 513066,237,1,1,1,"77,1036489403311",marzo,este municipio,descuido,noche,Otro lugar,no,si,no,no,no,no,no,no,no,no,si,si,Fiscalía,fiscalia,justicia,si,,,no,2019
 513068,237,1,1,1,"66,8970497101555",agosto,otro,cosquilleo,mañana,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,implicación de conocidos,no,2019
@@ -9140,6 +9158,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 513386,237,1,1,1,"141,922020939214",junio,este municipio,descuido,madrugada,Trabajo/Estudio,no,no,no,no,si,no,no,no,no,no,no,si,Fiscalía,fiscalia,recuperar bienes,no,espera excesiva,,no,2019
 513388,237,1,1,1,"141,922020939214",febrero,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,implicación de conocidos,si,2019
 513388,237,4,1,4,"141,922020939214",enero,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,implicación de conocidos,si,2019
+513395,237,2,1,2,"167,082009637623",abril,este municipio,atraco,mañana,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,,no,2019
 513401,237,3,1,3,"116,183104751317",enero,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,implicación de conocidos,no,2019
 513411,237,1,1,1,"81,9881384911194",diciembre,este municipio,descuido,tarde,Vehículo,no,si,no,no,no,no,no,no,no,no,no,si,denuncias en línea,,obligacion_ciudadana,,,,no,2019
 513414,237,1,1,1,"85,9854855934963",septiembre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,implicación de conocidos,no,2019
@@ -9243,6 +9262,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 514008,237,1,1,1,"67,1210972789062",abril,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2019
 514048,237,2,1,2,"60,735094072824",enero,este municipio,engaño,tarde,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 514073,237,2,1,2,"72,1181715048041",junio,este municipio,atraco,tarde,Calle/Avenida,si,si,si,no,no,no,si,no,no,no,no,si,Estación de Policía,policia,evitar ocurrencia,no,info imprecisa,,no,2019
+514074,237,1,1,1,"63,566187630303",septiembre,este municipio,atraco,noche,Entretenimiento,si,si,si,no,no,si,no,no,no,no,no,no,,,,,,,no,2019
 514074,237,2,1,2,"63,566187630303",octubre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,si,2019
 514076,237,2,1,2,"73,014460981422",junio,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,si,si,denuncias en línea,,obligacion_ciudadana,,,,no,2019
 514081,237,2,1,2,"61,974439075972",septiembre,este municipio,descuido,noche,Entretenimiento,si,no,no,no,no,no,no,no,no,no,no,si,C.A.I.,policia,recuperar bienes,si,,,no,2019
@@ -9276,6 +9296,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 514338,237,1,1,1,"322,879028041788",noviembre,otro,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 514340,237,3,1,3,"271,677051002387",abril,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,si,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 514345,237,2,1,2,"297,816028005244",diciembre,este municipio,cosquilleo,noche,Calle/Avenida,si,si,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2019
+514348,237,3,1,3,"318,463918750605",mayo,este municipio,otro,tarde,Residencia propia,no,si,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2019
 514349,237,1,1,1,"314,008425757185",febrero,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 514356,237,4,1,4,"356,320456547382",junio,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 514356,237,1,1,1,"356,320456547382",abril,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,si,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -9744,12 +9765,14 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 518417,237,3,1,3,"48,4112006979994",enero,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,si,C.A.I.,policia,recuperar bienes,si,,,no,2019
 518421,237,2,1,2,"123,501513413965",noviembre,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,falta de pruebas,no,2019
 518461,237,4,1,4,"605,388131589244",noviembre,este municipio,cosquilleo,madrugada,Trabajo/Estudio,no,si,no,no,no,,,,,,no,si,C.A.I.,policia,justicia,si,,,no,2019
+518482,237,2,1,2,"348,515245819631",mayo,este municipio,descuido,tarde,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2019
 518484,237,3,1,3,"301,696490405521",diciembre,este municipio,atraco,madrugada,Transporte público,si,si,no,no,no,no,no,no,si,no,no,no,,,,,,desaconsejado por autoridades,no,2019
 518489,237,2,1,2,"349,523325148178",diciembre,este municipio,engaño,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,si,no,no,,,,,,desaconsejado por autoridades,no,2019
 518495,237,1,1,1,"351,258396198277",abril,este municipio,cosquilleo,noche,Mercado/Comercio,si,si,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2019
 518496,237,1,1,1,"320,623918337258",agosto,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 518509,237,1,1,1,"321,799028248461",agosto,este municipio,cosquilleo,mañana,Transporte público,si,no,no,no,no,,,,,,no,si,Fiscalía,fiscalia,recuperar bienes,si,,,no,2019
 518520,237,3,1,3,"397,309861021053",agosto,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
+518522,237,2,1,2,"331,894048908494",junio,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,,si,2019
 518526,237,1,1,1,"333,202066988546",febrero,este municipio,descuido,noche,Vehículo,no,si,no,no,no,no,no,no,no,no,si,si,denuncias en línea,,otro,,,,no,2019
 518530,237,1,1,1,"314,481858194826",noviembre,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,si,Estación de Policía,policia,justicia,si,,,no,2019
 518543,237,3,1,3,"303,391528656733",marzo,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,si,no,no,no,no,si,denuncias en línea,,requisito para tramite,,,,no,2019
@@ -9858,6 +9881,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 519530,237,1,1,1,"36,0787061001029",enero,este municipio,cosquilleo,tarde,Calle/Avenida,si,no,no,no,no,,,,,,si,si,denuncias en línea,,recuperar bienes,,,,no,2019
 519540,237,2,1,2,"35,1774065299575",enero,este municipio,cosquilleo,mañana,Calle/Avenida,no,si,no,no,no,,,,,,no,no,,,,,,falta de pruebas,no,2019
 519541,237,2,1,2,"45,4699510813742",febrero,este municipio,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,,,,,,si,si,Estación de Policía,policia,obligacion_ciudadana,si,,,si,2019
+519541,237,3,1,3,"45,4699510813742",octubre,otro,cosquilleo,noche,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,,no,2019
 519546,237,2,1,2,"91,363705877934",septiembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,si,no,,,,,,falta de pruebas,no,2019
 519551,237,3,1,3,"52,1262141808285",marzo,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,falta de pruebas,no,2019
 519558,237,2,1,2,"40,2227548531212",diciembre,este municipio,cosquilleo,tarde,Calle/Avenida,si,no,no,no,no,,,,,,no,si,Fiscalía,fiscalia,justicia,no,info imprecisa,,no,2019
@@ -9958,6 +9982,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 520458,237,3,1,3,"401,798863235349",agosto,este municipio,atraco,noche,Carretera/Trocha,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
 520480,237,2,1,2,"158,723108340683",febrero,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 520505,237,2,1,2,"117,968519758858",febrero,este municipio,raponazo,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
+520506,237,1,1,1,"119,281797820439",junio,este municipio,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,,no,2019
 520509,237,3,1,3,"144,736405455667",octubre,este municipio,atraco,mañana,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 520510,237,1,1,1,"117,968519758858",febrero,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 520510,237,2,1,2,"117,968519758858",septiembre,este municipio,atraco,tarde,Transporte público,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,desaconsejado por autoridades,no,2019
@@ -10073,6 +10098,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 521290,237,2,1,2,"71,3964936716028",octubre,este municipio,raponazo,noche,Calle/Avenida,si,no,no,si,no,no,no,no,no,no,no,no,,,,,,falta de pruebas,no,2019
 521292,237,1,1,1,"70,6681347378168",febrero,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2019
 521292,237,2,1,2,"70,6681347378168",agosto,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,implicación de conocidos,no,2019
+521293,237,2,1,2,"70,6063773037336",septiembre,este municipio,raponazo,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,,,,,,,si,2019
 521294,237,3,1,3,"68,2589061825459",septiembre,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,si,no,,,,,,desconfianza en la justicia,no,2019
 521296,237,1,1,1,"61,264029560832",mayo,este municipio,raponazo,madrugada,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,implicación de conocidos,si,2019
 521296,237,5,1,5,"61,264029560832",julio,este municipio,atraco,tarde,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -10527,6 +10553,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 524995,237,1,1,1,"117,968519758858",agosto,este municipio,atraco,tarde,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,no,no,,,,,,miedo a represalias,no,2019
 525014,237,1,1,1,"2039,53601809957",agosto,este municipio,descuido,madrugada,Residencia propia,no,no,no,si,no,no,no,no,no,no,no,si,Estación de Policía,policia,recuperar bienes,si,,,no,2019
 525051,237,2,1,2,"2297,45664220737",mayo,este municipio,descuido,mañana,Residencia propia,no,si,no,no,no,no,no,no,no,no,si,si,Estación de Policía,policia,recuperar bienes,si,,,no,2019
+525054,237,1,1,1,"91,2032828452719",mayo,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,,no,2019
 525055,237,6,2,3,"91,4594257910877",enero,este municipio,atraco,madrugada,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 525066,237,1,1,1,"79,0749150900423",noviembre,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,implicación de conocidos,si,2019
 525077,237,6,1,6,"81,8518296025403",noviembre,este municipio,cosquilleo,tarde,Mercado/Comercio,si,no,no,no,no,,,,,,no,no,,,,,,desaconsejado por autoridades,no,2019
@@ -10534,6 +10561,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 525103,237,2,1,2,"97,5388370022415",junio,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 525135,237,3,1,3,"103,959207780973",diciembre,este municipio,atraco,noche,Residencia propia,si,no,no,no,no,si,no,no,no,no,si,si,Fiscalía,fiscalia,justicia,si,,,no,2019
 525142,237,6,3,1,"73,9695218658762",noviembre,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,miedo a represalias,no,2019
+525156,237,1,1,1,"107,129487042362",noviembre,este municipio,atraco,noche,Calle/Avenida,si,si,si,no,no,no,si,no,no,no,no,no,,,,,,,no,2019
 525178,237,1,1,1,"96,1226378660549",octubre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
 525185,237,3,1,3,"189,274717062902",abril,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 525186,237,1,1,1,"169,755744063247",noviembre,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,si,C.A.I.,policia,justicia,si,,,no,2019
@@ -10783,6 +10811,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 527451,237,7,1,7,"107,295196779867",agosto,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
 527462,237,4,1,4,"110,468214339379",agosto,este municipio,atraco,tarde,Transporte público,no,no,no,si,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 527483,237,2,1,2,"80,0124943265349",marzo,este municipio,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,,,,,,no,si,denuncias en línea,,obligacion_ciudadana,,,,no,2019
+527495,237,1,1,1,"108,194331890451",diciembre,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2019
 527500,237,4,1,4,"71,1116934576381",septiembre,este municipio,atraco,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,si,si,Estación de Policía,policia,recuperar bienes,si,,,no,2019
 527535,237,3,1,3,"274,437974396263",junio,otro,raponazo,tarde,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 527561,237,1,1,1,"96,185784147212",noviembre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,falta de pruebas,no,2019
@@ -10836,6 +10865,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 527792,237,2,1,2,"43,664979292143",marzo,este municipio,cosquilleo,mañana,Mercado/Comercio,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2019
 527795,237,1,1,1,"38,650261650024",febrero,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,trámites engorrosos,no,2019
 527801,237,2,1,2,"41,932904766388",marzo,este municipio,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
+527816,237,1,1,1,"38,3765412464519",noviembre,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,,si,2019
 527821,237,1,1,1,"39,9054199831705",marzo,este municipio,cosquilleo,mañana,Calle/Avenida,si,si,no,no,no,,,,,,si,si,Estación de Policía,policia,justicia,no,requisitos excesivos,,no,2019
 527823,237,2,1,2,"41,795299055163",diciembre,este municipio,descuido,noche,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,si,si,C.A.I.,policia,evitar ocurrencia,si,,,no,2019
 527828,237,2,1,2,"37,1259890400562",junio,este municipio,raponazo,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,si,Fiscalía,fiscalia,justicia,si,,,no,2019
@@ -11384,6 +11414,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 532682,237,2,1,2,"911,857519083595",diciembre,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 532687,237,1,1,1,"1027,54553794143",diciembre,este municipio,cosquilleo,noche,Entretenimiento,si,no,no,no,no,,,,,,no,no,,,,,,desconocimiento del proceso,no,2019
 532691,237,2,1,2,"983,213617740569",julio,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
+532697,237,3,1,3,"1059,97124939476",febrero,este municipio,raponazo,noche,Parque/Deporte,si,si,si,no,no,no,no,no,si,no,no,no,,,,,,,si,2019
 532703,237,1,1,1,"1106,67516945808",agosto,otro,cosquilleo,mañana,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2019
 532712,237,1,1,1,"1059,28929119436",octubre,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,implicación de conocidos,no,2019
 532714,237,3,1,3,"968,416403799118",octubre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2019
@@ -11556,6 +11587,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 533765,237,1,1,1,"54,1731570099457",octubre,este municipio,atraco,noche,Parque/Deporte,si,si,si,no,no,no,si,no,no,no,no,si,C.A.I.,policia,evitar ocurrencia,no,espera excesiva,,no,2019
 533785,237,2,1,2,"72,366861313988",agosto,este municipio,descuido,mañana,Residencia propia,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2019
 533789,237,2,1,2,"57,8190589024933",febrero,este municipio,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2019
+533797,237,2,1,2,"66,3447550600833",diciembre,este municipio,descuido,tarde,Entretenimiento,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2019
 533817,237,2,1,2,"53,4310718191829",junio,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,si,si,Estación de Policía,policia,justicia,no,info imprecisa,,no,2019
 533841,237,1,1,1,"56,9102096313005",agosto,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
 533846,237,1,1,1,"54,1731570099457",febrero,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,si,C.A.I.,policia,proteccion,si,,,no,2019
@@ -11575,6 +11607,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 533945,237,2,1,2,"319,269404354838",agosto,este municipio,cosquilleo,tarde,Calle/Avenida,si,no,no,no,no,,,,,,no,si,Reporte de objetos perdidos en línea,fiscalia,obligacion_ciudadana,,,,no,2019
 533945,237,1,1,1,"319,269404354838",diciembre,este municipio,atraco,mañana,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,si,Reporte de objetos perdidos en línea,fiscalia,requisito para tramite,,,,no,2019
 534013,237,1,1,1,"310,499797639047",mayo,este municipio,cosquilleo,mañana,Mercado/Comercio,no,si,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2019
+534142,237,5,1,5,"72,28146014192",septiembre,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,,no,2019
 534159,237,5,1,5,"49,4697549338717",agosto,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,falta de pruebas,no,2019
 534171,237,1,1,1,"47,177618342233",noviembre,este municipio,atraco,noche,Trabajo/Estudio,si,no,no,no,no,no,si,no,no,no,si,no,,,,,,desconfianza en la justicia,no,2019
 534174,237,1,1,1,"44,4922984194413",septiembre,este municipio,atraco,noche,Residencia propia,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -11667,6 +11700,8 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 534958,237,3,1,3,"342,181821603821",junio,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,si,denuncias en línea,,obligacion_ciudadana,,,,no,2019
 534959,237,1,1,1,"292,651238504052",marzo,este municipio,descuido,mañana,Residencia propia,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,consideró innecesario,si,2019
 534965,237,1,1,1,"506,306892984736",diciembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
+534968,237,2,1,2,"268,854667453123",diciembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,,no,2019
+534981,237,3,1,3,"478,760084778252",octubre,este municipio,descuido,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,no,,,,,,,si,2019
 534985,237,2,1,2,"509,771274611671",junio,este municipio,raponazo,tarde,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
 534989,237,1,1,1,"1228,7062885793",agosto,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,desaconsejado por autoridades,no,2019
 535037,237,2,1,2,"44,5686515112288",junio,este municipio,cosquilleo,mañana,Calle/Avenida,no,si,no,no,no,,,,,,no,si,C.A.I.,policia,justicia,si,,,no,2019
@@ -12149,6 +12184,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 539272,237,1,1,1,"91,9970548911127",julio,este municipio,atraco,tarde,Transporte público,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2019
 539286,237,1,1,1,"966,956602512145",mayo,otro,descuido,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desaconsejado por autoridades,no,2019
 539288,237,4,1,4,"1224,92303477574",junio,este municipio,descuido,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
+539296,237,1,1,1,"912,168642875541",julio,otro,atraco,noche,Transporte público,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,,no,2019
 539298,237,3,1,3,"1307,73959172153",septiembre,este municipio,atraco,mañana,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,si,C.A.I.,policia,obligacion_ciudadana,no,info imprecisa,,no,2019
 539308,237,2,1,2,"93,5499212188046",marzo,otro,raponazo,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,si,Fiscalía,policia,recuperar bienes,si,,,no,2019
 539313,237,6,1,6,"258,128421479452",junio,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -12369,6 +12405,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 541302,237,1,1,1,"887,042117212494",junio,este municipio,engaño,mañana,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,si,denuncias en línea,,proteccion,,,,no,2019
 541311,237,3,1,3,"801,002841138423",diciembre,este municipio,descuido,madrugada,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2019
 541336,237,3,1,3,"969,406625969829",junio,este municipio,atraco,mañana,Transporte público,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2019
+541337,237,2,1,2,"1009,66781238652",octubre,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,,no,2019
 541347,237,1,1,1,"949,234483466893",septiembre,este municipio,cosquilleo,tarde,Transporte público,no,si,no,no,no,,,,,,no,no,,,,,,desaconsejado por autoridades,no,2019
 541349,237,1,1,1,"1065,85403328849",mayo,este municipio,cosquilleo,mañana,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,falta de pruebas,no,2019
 541349,237,3,1,3,"1065,85403328849",noviembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,si,no,no,no,,,,,,trámites engorrosos,no,2019
@@ -12452,6 +12489,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 542120,237,1,1,1,"41,226423326696",junio,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,si,si,C.A.I.,policia,obligacion_ciudadana,si,,,no,2019
 542121,237,2,1,2,"89,9599552520518",noviembre,este municipio,raponazo,mañana,Calle/Avenida,si,si,si,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2019
 542124,237,2,1,2,"38,3765412464519",octubre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
+542132,237,5,1,5,"44,5145541998735",octubre,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2019
 542133,237,2,1,2,"48,0605689036777",octubre,este municipio,raponazo,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,si,no,no,no,,,,,,trámites engorrosos,no,2019
 542135,237,3,1,3,"40,1438525800024",septiembre,este municipio,raponazo,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,si,denuncias en línea,,requisito para tramite,,,,no,2019
 542137,237,1,1,1,"41,226423326696",diciembre,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -12474,6 +12512,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 542214,237,1,1,1,"47,6304354490657",noviembre,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2019
 542216,237,2,1,2,"44,1711272829044",junio,este municipio,atraco,tarde,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,si,denuncias en línea,,requisito para tramite,,,,no,2019
 542217,237,1,1,1,"147,928811968164",marzo,este municipio,atraco,noche,Residencia propia,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
+542221,237,2,1,2,"127,585738589159",septiembre,este municipio,cosquilleo,mañana,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,,no,2019
 542223,237,1,1,1,"133,830929176392",julio,este municipio,descuido,tarde,Residencia propia,si,si,si,si,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 542317,237,1,1,1,"1057,76220240125",diciembre,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 542318,237,1,1,1,"948,071003961483",noviembre,este municipio,cosquilleo,madrugada,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -12665,6 +12704,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 547260,237,2,1,2,"976,258661923003",septiembre,este municipio,cosquilleo,mañana,Mercado/Comercio,si,no,no,no,no,,,,,,no,no,,,,,,implicación de conocidos,no,2019
 547261,237,2,1,2,"887,042117212494",marzo,este municipio,descuido,madrugada,Trabajo/Estudio,no,no,no,si,si,no,no,no,no,no,no,si,Estación de Policía,policia,recuperar bienes,no,espera excesiva,,no,2019
 547261,237,1,1,1,"887,042117212494",julio,este municipio,raponazo,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,no,,,,,,falta de pruebas,no,2019
+547279,237,2,1,2,"949,279742540862",noviembre,este municipio,raponazo,noche,Parque/Deporte,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,,no,2019
 547292,237,1,1,1,"1260,05872113529",febrero,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
 547355,237,2,1,2,"922,574944715023",noviembre,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2019
 547685,237,2,1,2,"285,236058606968",junio,otro,atraco,noche,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -12719,6 +12759,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 549305,237,2,1,2,"38,1013307561196",noviembre,este municipio,descuido,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desaconsejado por autoridades,no,2019
 549308,237,1,1,1,"48,6119952005828",mayo,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
 549316,237,1,1,1,"1495,71088342972",noviembre,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,si,si,Estación de Policía,policia,proteccion,si,,,no,2019
+549320,237,1,1,1,"414,998670847553",julio,otro,atraco,tarde,Otro lugar,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,,no,2019
 549325,237,5,1,5,"79,1716653264602",marzo,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desaconsejado por autoridades,no,2019
 549326,237,1,1,1,"66,1032051639122",agosto,este municipio,descuido,tarde,Trabajo/Estudio,si,no,no,no,no,no,no,no,no,no,no,si,denuncias en línea,,requisito para tramite,,,,no,2019
 549359,237,1,1,1,"59,04472729375",junio,este municipio,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2019
@@ -12926,6 +12967,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 600459,237,1,1,1,"121,161512426881",diciembre,este municipio,raponazo,noche,Parque/Deporte,si,no,no,no,no,no,no,no,si,no,si,si,Estación de Policía,policia,obligacion_ciudadana,si,,,no,2020
 600459,237,6,1,6,"121,161512426881",enero,este municipio,descuido,madrugada,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2020
 600467,237,1,1,1,"84,1440488220424",septiembre,otro,atraco,noche,Calle/Avenida,no,si,no,no,no,si,si,no,no,no,no,no,,,,,,trámites engorrosos,no,2020
+600467,237,3,1,3,"84,1440488220424",octubre,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2020
 600470,237,2,1,2,"62,8075320977598",noviembre,este municipio,raponazo,mañana,Calle/Avenida,si,si,no,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2020
 600471,237,1,1,1,"81,9455406000058",mayo,este municipio,raponazo,noche,Calle/Avenida,si,si,no,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2020
 600473,237,1,1,1,"73,5972660121798",mayo,este municipio,descuido,mañana,Residencia propia,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,falta de pruebas,no,2020
@@ -13129,6 +13171,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 603964,237,2,1,2,"107,251620923432",diciembre,este municipio,atraco,noche,Calle/Avenida,no,no,no,si,no,si,no,no,no,no,si,si,Estación de Policía,policia,obligacion_ciudadana,si,,,no,2020
 603975,237,5,1,5,"93,7473048446007",marzo,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 603992,237,1,1,1,"131,946021486129",octubre,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
+604000,237,2,1,2,"130,816727069832",octubre,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,no,si,no,no,no,no,,,,,,,no,2020
 604015,237,2,1,2,"93,1789061867845",febrero,este municipio,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,,,,,,no,no,,,,,,desaconsejado por autoridades,si,2020
 604019,237,1,1,1,"106,094156578571",marzo,este municipio,atraco,mañana,Otro lugar,si,no,no,no,no,si,no,no,no,no,si,si,Estación de Policía,policia,evitar ocurrencia,si,,,no,2020
 604020,237,1,1,1,"109,018878276979",junio,este municipio,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2020
@@ -13219,6 +13262,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 604923,237,1,1,1,"87,3018468624752",noviembre,este municipio,atraco,mañana,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,falta de pruebas,no,2020
 604935,237,4,1,4,"278,44249249144",abril,este municipio,raponazo,madrugada,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,si,C.A.I.,policia,evitar ocurrencia,no,espera excesiva,,no,2020
 604972,237,3,1,3,"332,687577181212",julio,este municipio,atraco,tarde,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
+604978,237,6,1,6,"95,1329846757906",noviembre,este municipio,atraco,tarde,Mercado/Comercio,si,si,si,no,no,no,si,no,si,no,no,no,,,,,,,no,2020
 604992,237,1,1,1,"167,874949293533",diciembre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,si,Estación de Policía,policia,requisito para tramite,si,,,no,2020
 604993,237,1,1,1,"254,573893058708",noviembre,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,miedo a represalias,no,2020
 604994,237,2,3,2,"102,203626351776",octubre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,si,Fiscalía,fiscalia,requisito para tramite,si,,,no,2020
@@ -13270,6 +13314,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 605531,237,2,1,2,"1114,57862263288",mayo,este municipio,cosquilleo,noche,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2020
 605531,237,3,1,3,"1114,57862263288",febrero,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2020
 605534,237,3,1,3,"1608,5701853893",diciembre,este municipio,engaño,tarde,Parque/Deporte,si,no,no,no,no,no,no,no,no,no,no,si,C.A.I.,policia,evitar ocurrencia,no,trato inadecuado,,no,2020
+605537,237,1,1,1,"1126,28746167209",enero,este municipio,cosquilleo,mañana,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,,si,2020
 605556,237,1,1,1,"662,511489411628",septiembre,este municipio,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2020
 605561,237,1,1,1,"1124,15217265785",agosto,este municipio,atraco,madrugada,Calle/Avenida,no,no,si,no,no,no,no,no,si,no,si,no,,,,,,miedo a represalias,no,2020
 605561,237,2,1,2,"1124,15217265785",diciembre,este municipio,cosquilleo,tarde,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2020
@@ -13362,6 +13407,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 606337,237,2,1,2,"41,171414627936",enero,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,si,si,Estación de Policía,policia,obligacion_ciudadana,no,info imprecisa,,no,2020
 606339,237,1,1,1,"54,2256379817659",octubre,este municipio,raponazo,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,si,si,Estación de Policía,policia,recuperar bienes,si,,,no,2020
 606360,237,2,1,2,"50,4474315923092",mayo,este municipio,raponazo,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,si,Estación de Policía,policia,evitar ocurrencia,no,requisitos excesivos,,no,2020
+606366,237,2,1,2,"53,5344604473422",noviembre,este municipio,cosquilleo,mañana,Calle/Avenida,si,no,no,no,no,,,,,,no,no,,,,,,,no,2020
 606366,237,3,1,3,"53,5344604473422",febrero,este municipio,descuido,noche,Trabajo/Estudio,no,si,no,no,no,no,no,no,no,no,si,si,C.A.I.,policia,obligacion_ciudadana,si,,,no,2020
 606376,237,1,1,1,"50,8268296894966",octubre,este municipio,raponazo,tarde,Calle/Avenida,si,si,no,no,no,no,no,no,si,no,no,si,Estación de Policía,policia,proteccion,no,trato inadecuado,,no,2020
 606380,237,2,1,2,"47,8810405866677",febrero,este municipio,raponazo,mañana,Calle/Avenida,si,si,si,no,no,no,si,no,si,no,no,si,Fiscalía,fiscalia,evitar ocurrencia,no,espera excesiva,,no,2020
@@ -13522,6 +13568,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 608124,237,3,1,3,"69,1194962501093",agosto,este municipio,atraco,noche,Calle/Avenida,no,no,si,no,no,si,no,no,no,no,no,si,Estación de Policía,policia,recuperar bienes,no,requisitos excesivos,,no,2020
 608124,237,1,2,1,"69,1194962501093",diciembre,este municipio,cosquilleo,tarde,Calle/Avenida,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2020
 608124,237,1,3,1,"69,1194962501093",diciembre,este municipio,atraco,tarde,Trabajo/Estudio,si,no,no,no,no,si,no,no,no,no,no,si,Fiscalía,fiscalia,requisito para tramite,si,,,no,2020
+608147,237,1,1,1,"93,2080000351439",noviembre,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,si,no,,,,,,,no,2020
 608167,237,1,1,1,"76,1569728100554",enero,este municipio,atraco,noche,Calle/Avenida,si,si,si,no,no,si,si,no,si,no,no,si,Estación de Policía,policia,recuperar bienes,no,requisitos excesivos,,no,2020
 608172,237,3,1,3,"76,6270543741044",mayo,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,si,no,si,no,no,no,,,,,,desaconsejado por autoridades,no,2020
 608216,237,2,1,2,"92,2505672518947",julio,este municipio,atraco,tarde,Transporte público,no,si,no,no,no,si,no,no,no,no,no,no,,,,,,implicación de conocidos,no,2020
@@ -14059,6 +14106,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 614922,237,3,1,3,"1162,80038014541",octubre,este municipio,cosquilleo,tarde,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2020
 614924,237,1,1,1,"1302,26299456873",agosto,este municipio,atraco,mañana,Calle/Avenida,no,si,no,no,no,no,no,no,si,no,no,no,,,,,,trámites engorrosos,no,2020
 614932,237,1,1,1,"1345,72904354264",agosto,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,si,Reporte de objetos perdidos en línea,,obligacion_ciudadana,,,,no,2020
+614934,237,1,1,1,"1374,16624126172",noviembre,este municipio,descuido,,Vehículo,no,no,si,si,no,no,no,no,no,no,no,no,,,,,,,no,2020
 614936,237,3,1,3,"1480,30194789691",abril,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2020
 614942,237,2,1,2,"1171,61717628502",noviembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 614944,237,2,1,2,"2167,65709401677",diciembre,este municipio,descuido,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,trámites engorrosos,no,2020
@@ -14094,6 +14142,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 615257,237,1,1,1,"50,1638361852735",enero,este municipio,raponazo,madrugada,Transporte público,si,no,no,no,no,no,no,no,no,no,no,si,denuncias en línea,,obligacion_ciudadana,,,,no,2020
 615268,237,1,1,1,"57,8894405850343",junio,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,desconocimiento del proceso,no,2020
 615271,237,1,1,1,"79,6921113516162",febrero,este municipio,descuido,mañana,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,falta de pruebas,no,2020
+615308,237,1,1,1,"122,958045263166",junio,este municipio,raponazo,tarde,Transporte público,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2020
 615354,237,2,1,2,"2491,93337130831",diciembre,este municipio,descuido,noche,Residencia propia,si,si,no,si,no,no,no,no,no,no,si,no,,,,,,desconfianza en la justicia,no,2020
 615361,237,5,1,5,"91,9486292244635",mayo,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,trámites engorrosos,no,2020
 615365,237,2,1,2,"97,8328678389496",septiembre,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,si,no,no,si,no,no,si,C.A.I.,policia,obligacion_ciudadana,si,,,no,2020
@@ -14108,6 +14157,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 615456,237,2,1,2,"1108,5514754017",junio,este municipio,atraco,noche,Mercado/Comercio,si,no,no,no,no,si,no,no,no,no,si,si,C.A.I.,policia,recuperar bienes,no,info imprecisa,,no,2020
 615458,237,2,1,2,"1130,73923703551",noviembre,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,si,C.A.I.,policia,justicia,no,espera excesiva,,no,2020
 615459,237,4,1,4,"840,740029032931",mayo,otro,cosquilleo,tarde,Calle/Avenida,no,si,no,no,no,,,,,,no,si,Reporte de objetos perdidos en línea,,requisito para tramite,,,,no,2020
+615463,237,4,1,4,"484,985436613567",febrero,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,,no,2020
 615470,237,3,1,3,"529,315916227441",febrero,este municipio,descuido,mañana,Otro lugar,si,si,no,no,no,no,no,no,no,no,si,no,,,,,,trámites engorrosos,no,2020
 615505,237,1,1,1,"462,952843268288",junio,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 615505,237,2,1,2,"462,952843268288",agosto,este municipio,cosquilleo,tarde,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,trámites engorrosos,no,2020
@@ -14192,6 +14242,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 617115,237,3,1,3,"109,996785362842",noviembre,este municipio,atraco,mañana,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desaconsejado por autoridades,no,2020
 617221,237,1,1,1,"1352,50285550401",agosto,este municipio,descuido,noche,Calle/Avenida,no,no,no,si,no,no,no,no,no,no,no,no,,,,,,falta de pruebas,no,2020
 617229,237,4,1,4,"1374,16624126172",agosto,este municipio,atraco,tarde,Transporte público,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
+617253,237,1,1,1,"1294,89966568653",junio,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,si,,,obligacion_ciudadana,no,info imprecisa,,no,2020
 617255,237,1,1,1,"1242,39146438128",noviembre,este municipio,atraco,mañana,Calle/Avenida,no,si,no,no,no,si,no,no,si,no,no,no,,,,,,desconocimiento del proceso,no,2020
 617259,237,1,1,1,"1079,21447645904",noviembre,este municipio,atraco,noche,Calle/Avenida,no,si,si,no,no,no,si,no,si,no,si,si,C.A.I.,policia,evitar ocurrencia,no,otro problema,,no,2020
 617264,237,2,1,2,"1442,88819890785",diciembre,este municipio,atraco,mañana,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,si,denuncias en línea,,obligacion_ciudadana,,,,no,2020
@@ -14242,6 +14293,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 617938,237,1,1,1,"297,199176645957",agosto,este municipio,atraco,tarde,Calle/Avenida,si,no,si,si,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 617954,237,1,1,1,"453,483987600648",diciembre,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,si,denuncias en línea,,obligacion_ciudadana,,,,no,2020
 617955,237,1,1,1,"338,050961052675",septiembre,este municipio,cosquilleo,tarde,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2020
+617957,237,1,1,1,"300,51036046445",mayo,este municipio,descuido,mañana,Otro lugar,no,si,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2020
 617969,237,2,1,2,"518,015512209912",noviembre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,trámites engorrosos,no,2020
 617972,237,2,1,2,"248,996153070559",junio,este municipio,atraco,mañana,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,si,si,Fiscalía,fiscalia,recuperar bienes,no,otro problema,,no,2020
 617972,237,3,1,3,"248,996153070559",junio,este municipio,atraco,mañana,Parque/Deporte,si,si,si,no,no,si,no,no,no,no,si,si,Fiscalía,fiscalia,recuperar bienes,no,otro problema,,no,2020
@@ -14362,6 +14414,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 619200,237,1,1,1,"261,940407889079",febrero,este municipio,atraco,madrugada,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 619206,237,2,1,2,"199,678857660868",septiembre,este municipio,atraco,tarde,Transporte público,si,no,si,no,no,si,no,no,no,no,no,no,,,,,,desconocimiento del proceso,si,2020
 619206,237,1,1,1,"199,678857660868",septiembre,este municipio,atraco,tarde,Transporte público,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,desaconsejado por autoridades,si,2020
+619270,237,1,1,1,"123,260396900285",diciembre,este municipio,engaño,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2020
 619284,237,6,1,6,"264,322329852019",diciembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 619310,237,2,1,2,"189,801147547245",noviembre,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 619311,237,1,1,1,"156,093963359499",octubre,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,miedo a represalias,no,2020
@@ -14371,6 +14424,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 619341,237,2,1,2,"91,7785867541733",noviembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,si,no,no,no,,,,,,implicación de conocidos,no,2020
 619344,237,1,1,1,"148,792763268062",octubre,este municipio,atraco,madrugada,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,trámites engorrosos,no,2020
 619346,237,6,1,6,"111,544662503302",agosto,este municipio,atraco,noche,Residencia propia,si,no,no,no,no,si,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2020
+619348,237,1,1,1,"94,6798757627734",junio,este municipio,atraco,mañana,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,,no,2020
 619352,237,2,1,2,"140,870868953972",agosto,este municipio,atraco,noche,Residencia propia,si,no,no,no,no,si,no,no,no,no,si,si,Estación de Policía,policia,evitar ocurrencia,no,requisitos excesivos,,no,2020
 619389,237,1,1,1,"114,298017203495",septiembre,este municipio,atraco,madrugada,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 619390,237,1,1,1,"75,0915709806873",septiembre,este municipio,atraco,noche,Residencia propia,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
@@ -14472,6 +14526,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 620657,237,2,1,2,"40,3311356781374",septiembre,este municipio,raponazo,noche,Calle/Avenida,si,si,no,no,no,no,no,no,no,no,no,si,Reporte de objetos perdidos en línea,,requisito para tramite,,,,no,2020
 620659,237,3,1,3,"37,1052323681501",abril,este municipio,atraco,noche,Residencia ajena,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 620668,237,3,1,3,"40,7142594609367",febrero,este municipio,atraco,tarde,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
+620673,237,2,1,2,"53,5586236508984",marzo,este municipio,raponazo,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,si,no,no,no,,,,,,,no,2020
 620682,237,2,1,2,"46,3911239612094",enero,este municipio,cosquilleo,noche,Calle/Avenida,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2020
 620683,237,2,1,2,"52,1882011395833",junio,este municipio,raponazo,mañana,Calle/Avenida,no,no,si,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2020
 620684,237,1,1,1,"44,3900455301605",mayo,este municipio,raponazo,mañana,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
@@ -14572,6 +14627,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 622005,237,1,1,1,"628,117592966683",junio,este municipio,atraco,noche,Residencia ajena,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,consideró innecesario,no,2020
 622012,237,1,1,1,"890,185716939342",diciembre,este municipio,atraco,noche,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2020
 622019,237,4,1,4,"371,702252101364",abril,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2020
+622060,237,1,1,1,"491,075608083621",diciembre,otro,atraco,mañana,Calle/Avenida,si,si,si,no,no,si,no,no,si,no,no,no,,,,,,,no,2020
 622066,237,1,1,1,"483,816816995831",julio,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,si,si,Estación de Policía,policia,recuperar bienes,si,,,no,2020
 622076,237,1,1,1,"401,589929680783",noviembre,este municipio,atraco,,Residencia propia,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 622113,237,2,1,2,"154,126474626821",junio,este municipio,atraco,noche,Residencia propia,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,trámites engorrosos,no,2020
@@ -14948,6 +15004,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 627277,237,2,1,2,"664,122050977718",febrero,este municipio,atraco,tarde,Calle/Avenida,si,si,si,no,no,no,si,no,no,no,no,no,,,,,,implicación de conocidos,no,2020
 627357,237,3,1,3,"86,2707796629181",noviembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,si,si,Estación de Policía,fiscalia,recuperar bienes,no,requisitos excesivos,,no,2020
 627362,237,2,1,2,"44,9315185111363",abril,este municipio,atraco,madrugada,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
+627391,237,1,1,1,"88,3148001430128",febrero,este municipio,raponazo,tarde,Calle/Avenida,no,si,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2020
 627402,237,1,1,1,"76,1442318716692",diciembre,este municipio,descuido,tarde,Residencia propia,no,si,no,no,no,no,no,no,no,no,si,si,Reporte de objetos perdidos en línea,,evitar ocurrencia,,,,no,2020
 627415,237,2,1,2,"80,7569348129983",abril,este municipio,raponazo,mañana,Calle/Avenida,si,si,si,no,no,no,no,no,si,no,no,si,C.A.I.,policia,recuperar bienes,si,,,si,2020
 627422,237,2,1,2,"102,419908725073",octubre,este municipio,raponazo,tarde,Calle/Avenida,si,si,si,no,no,no,no,no,si,no,no,si,denuncias en línea,,recuperar bienes,,,,no,2020
@@ -14968,6 +15025,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 627602,237,4,1,4,"376,465040436264",noviembre,este municipio,cosquilleo,mañana,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2020
 627610,237,1,1,1,"404,4565407333",julio,este municipio,cosquilleo,tarde,Calle/Avenida,si,no,no,no,no,,,,,,no,si,denuncias en línea,,evitar ocurrencia,,,,no,2020
 627615,237,1,1,1,"345,123644087749",octubre,este municipio,atraco,tarde,Calle/Avenida,no,si,no,no,no,si,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2020
+627619,237,1,1,1,"440,487196352449",diciembre,este municipio,cosquilleo,noche,Transporte público,si,no,no,no,no,,,,,,no,no,,,,,,,no,2020
 627621,237,1,1,1,"373,405966213501",octubre,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,si,si,Estación de Policía,policia,recuperar bienes,no,info imprecisa,,no,2020
 627621,237,3,1,3,"373,405966213501",julio,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,si,no,no,si,denuncias en línea,,recuperar bienes,,,,no,2020
 627622,237,1,1,1,"304,633034197751",septiembre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,falta de pruebas,no,2020
@@ -15052,6 +15110,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 628296,237,1,1,1,"79,5761403593",febrero,este municipio,descuido,tarde,Residencia propia,no,si,no,no,no,no,no,no,no,no,no,no,,,,,,desaconsejado por autoridades,no,2020
 628345,237,1,1,1,"88,5056608635167",marzo,este municipio,cosquilleo,tarde,Calle/Avenida,si,no,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2020
 628349,237,1,1,1,"92,7906697207167",noviembre,este municipio,atraco,mañana,Calle/Avenida,no,no,si,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2020
+628407,237,1,1,1,"65,8587190723078",agosto,otro,descuido,tarde,Calle/Avenida,no,no,si,no,no,no,no,no,no,no,no,no,,,,,,,no,2020
 628450,237,1,1,1,"736,851331551042",diciembre,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,implicación de conocidos,no,2020
 628541,237,1,1,1,"2094,54521504347",febrero,otro,atraco,tarde,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,si,no,,,,,,miedo a represalias,no,2020
 628542,237,1,1,1,"2304,80897783651",octubre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
@@ -15070,6 +15129,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 628781,237,1,1,1,"154,075496125356",febrero,este municipio,raponazo,noche,Transporte público,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,trámites engorrosos,no,2020
 628798,237,1,1,1,"137,854107783733",mayo,este municipio,atraco,noche,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 628816,237,2,1,2,"134,548044872274",junio,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
+628820,237,1,1,1,"168,082359409479",julio,este municipio,atraco,mañana,Vehículo,si,si,no,no,no,si,si,no,no,no,si,no,,,,,,,no,2020
 628831,237,2,1,2,"91,8544162814228",mayo,este municipio,atraco,tarde,Transporte público,si,no,no,no,no,si,no,no,no,no,si,si,Estación de Policía,policia,obligacion_ciudadana,si,,,no,2020
 628837,237,2,1,2,"72,0497945829178",septiembre,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 628840,237,1,1,1,"135,572248248032",julio,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
@@ -15107,6 +15167,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 629454,237,1,1,1,"898,647950685537",octubre,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,implicación de conocidos,no,2020
 629469,237,1,1,1,"536,022081847796",julio,otro,atraco,tarde,Calle/Avenida,si,si,no,si,no,si,no,no,si,no,si,si,Estación de Policía,policia,recuperar bienes,si,,,si,2020
 629470,237,3,1,3,"1350,17914376159",agosto,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconocimiento del proceso,no,2020
+629521,237,3,1,3,"16,1008549984956",octubre,otro,raponazo,madrugada,Calle/Avenida,si,si,no,no,no,no,si,no,si,no,no,no,,,,,,,no,2020
 629535,237,4,1,4,"2279,42112932356",septiembre,este municipio,engaño,mañana,Trabajo/Estudio,si,si,no,no,no,no,no,no,no,si,si,si,Estación de Policía,policia,proteccion,si,,,no,2020
 629553,237,1,1,1,"1571,10411339571",julio,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,no,no,si,no,no,no,,,,,,implicación de conocidos,no,2020
 629620,237,1,1,1,"82,1436250790622",mayo,este municipio,descuido,noche,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,implicación de conocidos,no,2020
@@ -15430,9 +15491,11 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 634149,237,1,1,1,"129,060706701309",febrero,este municipio,atraco,mañana,Calle/Avenida,no,no,si,no,no,si,no,no,no,no,no,no,,,,,,falta de pruebas,no,2020
 634160,237,2,1,2,"49,054734565982",enero,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,consideró innecesario,no,2020
 634186,237,2,1,2,"72,4649220357192",marzo,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,falta de pruebas,no,2020
+634210,237,2,1,2,"45,5143585019772",mayo,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,,no,2020
 634224,237,2,1,2,"106,883449044646",noviembre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 634225,237,3,1,3,"113,133777150137",septiembre,este municipio,descuido,noche,Residencia propia,si,si,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 634246,237,1,1,1,"59,282392786203",febrero,este municipio,raponazo,noche,Calle/Avenida,si,si,si,no,no,no,no,no,no,no,no,si,Fiscalía,fiscalia,obligacion_ciudadana,no,trato inadecuado,,no,2020
+634354,237,1,1,1,"58,6403687458074",mayo,este municipio,atraco,tarde,Calle/Avenida,si,si,si,no,no,no,si,no,no,no,no,no,,,,,,,si,2020
 634356,237,1,1,1,"116,25242207215",marzo,este municipio,raponazo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,si,denuncias en línea,,evitar ocurrencia,,,,no,2020
 634396,237,1,1,1,"92,6040123131784",abril,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,si,Estación de Policía,fiscalia,obligacion_ciudadana,si,,,no,2020
 634400,237,1,1,1,"115,939044395454",febrero,este municipio,raponazo,madrugada,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,si,denuncias en línea,,otro,,,,no,2020
@@ -15656,6 +15719,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 637726,237,3,1,3,"68,4752579245496",abril,este municipio,atraco,mañana,Trabajo/Estudio,si,si,no,no,no,si,no,no,no,no,si,si,Estación de Policía,policia,recuperar bienes,si,,,no,2020
 637788,237,1,1,1,"68,1621745734178",enero,este municipio,atraco,tarde,Residencia propia,si,si,si,no,no,si,no,no,no,no,si,si,Fiscalía,fiscalia,obligacion_ciudadana,no,requisitos excesivos,,no,2020
 637806,237,1,1,1,"114,298017203495",abril,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
+637824,237,1,1,1,"205,072751078943",julio,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,,no,2020
 637868,237,2,1,2,"128,39624677113",julio,este municipio,raponazo,mañana,Vehículo,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 637880,237,1,1,1,"170,284323664907",septiembre,este municipio,atraco,noche,Transporte público,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 637913,237,2,1,2,"272,544274414005",noviembre,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,si,si,Fiscalía,fiscalia,proteccion,si,,,no,2020
@@ -15982,6 +16046,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 641980,237,3,1,3,"303,904677017904",noviembre,este municipio,engaño,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 642014,237,1,1,1,"357,174483862386",mayo,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,no,no,no,si,no,si,si,denuncias en línea,,obligacion_ciudadana,,,,no,2020
 642015,237,1,1,1,"156,455502066692",octubre,este municipio,descuido,tarde,Mercado/Comercio,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
+642047,237,3,1,3,"780,490332443591",junio,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,,no,2020
 642056,237,2,1,2,"50,7441102767386",febrero,este municipio,raponazo,mañana,Calle/Avenida,si,no,si,no,no,no,no,no,no,no,no,no,,,,,,desaconsejado por autoridades,no,2020
 642063,237,3,1,3,"31,5972619207326",octubre,este municipio,cosquilleo,tarde,Calle/Avenida,no,si,no,no,no,,,,,,no,no,,,,,,trámites engorrosos,no,2020
 642065,237,5,1,5,"38,8599036924523",julio,este municipio,atraco,tarde,Calle/Avenida,si,si,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
@@ -16086,6 +16151,7 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 644278,237,5,1,5,"459,353811667857",marzo,este municipio,fleteo,mañana,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,si,si,denuncias en línea,,recuperar bienes,,,,no,2020
 644281,237,1,1,1,"410,238064569116",junio,este municipio,atraco,noche,Calle/Avenida,si,si,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 644282,237,1,1,1,"312,684697743919",marzo,este municipio,cosquilleo,mañana,Transporte público,si,si,no,no,no,,,,,,no,no,,,,,,desconfianza en la justicia,no,2020
+644340,237,1,1,1,"338,050961052675",febrero,este municipio,raponazo,tarde,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,,no,2020
 644346,237,3,1,3,"574,579300328319",julio,este municipio,atraco,tarde,Calle/Avenida,si,no,no,no,no,si,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
 644350,237,1,1,1,"485,04632767923",agosto,este municipio,atraco,tarde,Mercado/Comercio,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2020
 644354,237,1,1,1,"375,221637292702",marzo,este municipio,atraco,madrugada,Calle/Avenida,si,si,si,no,no,si,no,no,no,no,si,si,C.A.I.,policia,justicia,si,,,no,2020
@@ -16171,6 +16237,8 @@ DIRECTORIO,NRO_ENCUESTA,SECUENCIA_ENCUESTA,SECUENCIA_P,ORDEN,FEX_C,mes_ultimo_un
 647831,237,2,1,2,"35,0516439242187",noviembre,este municipio,raponazo,noche,Calle/Avenida,si,no,no,no,no,no,no,no,si,no,no,no,,,,,,trámites engorrosos,no,2020
 647860,237,2,1,2,"1639,69056744063",octubre,este municipio,raponazo,mañana,Calle/Avenida,si,no,si,no,no,no,no,no,si,no,no,no,,,,,,desconfianza en la justicia,no,2020
 647871,237,2,1,2,"1647,58665415081",junio,este municipio,raponazo,madrugada,Calle/Avenida,si,no,no,no,no,no,no,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
+647945,237,3,1,3,"296,196030133131",junio,este municipio,atraco,noche,Calle/Avenida,no,si,no,no,no,si,no,no,no,no,no,no,,,,,,,si,2020
+647950,237,2,1,2,"178,995075358156",junio,este municipio,atraco,mañana,Calle/Avenida,no,si,no,no,no,no,si,no,no,no,no,no,,,,,,,si,2020
 647950,237,3,1,3,"178,995075358156",abril,este municipio,cosquilleo,tarde,Transporte público,si,no,no,no,no,,,,,,no,si,Fiscalía,fiscalia,recuperar bienes,si,,,no,2020
 647961,237,3,1,3,"287,180914763203",octubre,este municipio,descuido,noche,Trabajo/Estudio,no,si,no,no,no,no,no,no,no,no,no,no,,,,,,consideró innecesario,no,2020
 648123,237,1,1,1,"267,479258981361",mayo,este municipio,atraco,noche,Calle/Avenida,si,no,no,no,no,no,si,no,no,no,no,no,,,,,,desconfianza en la justicia,no,2020
